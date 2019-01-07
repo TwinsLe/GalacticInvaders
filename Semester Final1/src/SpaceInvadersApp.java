@@ -1,5 +1,3 @@
-package com.almasb.invaders;
-
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
 import javafx.scene.Parent;
@@ -13,9 +11,7 @@ import javafx.stage.Stage;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * @author Almas Baimagambetov (almaslvl@gmail.com)
- */
+
 public class SpaceInvadersApp extends Application {
 
     private Pane root = new Pane();
